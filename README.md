@@ -14,4 +14,5 @@ This project was very helpful to get used to the ESP IoT Framework and understan
 The result is a simple website that shows the temperature and humidity obtained from the sensor. 
 
 
+![Screenshot from 2021-11-09 13-20-35](https://user-images.githubusercontent.com/34103285/140938859-9c85ab51-6811-4921-be93-f02f2557b97e.png)
 

@@ -14,8 +14,7 @@ To display the data I used the Paho Javascript library and used websockets to su
 
 The result is a simple website that shows the temperature and humidity obtained from the sensor. 
 
+![Screenshot from 2021-11-11 17-04-49](https://user-images.githubusercontent.com/34103285/141339095-ad1bf19b-9a84-40e1-83bf-b9c639753dd5.png)
 
 
-
-![WhatsApp Image 2021-11-10 at 16 01 31](https://user-images.githubusercontent.com/34103285/141153649-b085ab0a-ce06-4ad9-b433-218bf0fd9921.jpeg)
 ![Screenshot from 2021-11-11 17-03-16](https://user-images.githubusercontent.com/34103285/141338847-c3fa0bff-13f9-4a4f-9219-f0f043fb2043.png)
